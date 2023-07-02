@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanka-binnar
-- 👀 I’m interested in development.
-- 🌱 I’m currently learning java.
+- 👀 I’m interested in web development.
+- 
 
 
 
